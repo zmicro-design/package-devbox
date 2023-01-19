@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="devbox"
+export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
+export PACKAGE_CORE_VERSION=v0.2.2
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/jetpack-io/devbox/releases/download"
