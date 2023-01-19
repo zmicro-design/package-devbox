@@ -9,7 +9,7 @@ help() {
 }
 
 version() {
-  devbox --version
+  devbox version
 }
 
 core() {
